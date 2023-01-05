@@ -1,9 +1,7 @@
-# Manage Finance
-![Demo](https://github.com/erinchocolate/swen502/blob/master/HCI%20Assignment/Demo.gif)
+# Personal Finance App Design
+This project is created to study User Experience design.
 
-This project is mainly to learn User Experience design.
-
-We created user personas, information architecture, use cases, wireframes and prototype of a personal finance management app.
+My teammate (Tutere Durie) and I created user personas, information architecture, use cases, wireframes and prototype of a personal finance management app.
 
 ## Product
 
@@ -28,3 +26,7 @@ We are creating a personal finance management app for young professionals lookin
 - Keep finance on track
   - Users can set up budget weekly or monthly. When they spend over their budget, they will receive overspending notification.
   - They can also set up saving goals. Saving notifications and progress bar give users instant feedback to help them work towards their financial goals.
+
+## Demo
+
+![Demo](https://github.com/erinchocolate/finance-app-design/blob/master/Demo.gif)
